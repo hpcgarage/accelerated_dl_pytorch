@@ -1,0 +1,6 @@
+[submodule "pretrained"]
+	path = pretrained
+	url = git@github.com:michael-isaev/surface_models.git
+[submodule "data/surface_quality"]
+	path = data/surface_quality
+	url = git@github.com:michael-isaev/surface_dataset.git

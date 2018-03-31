@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+pretrained/logreg.t7
+pretrained/MNIST_net.t7
+data/raw
+data/processed
